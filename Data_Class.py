@@ -21,9 +21,10 @@ class dataset:
     def popEntry(self): #Get latest entry
         with self.lock:
             return self.data_stack.pop()
+
+
         
     def printStack(self): #Use to print all stack
         with self.lock:
-            print(self.data_stack)
-
-
+            for entry in self.data_stack:
+                print(f"Year: {entry.year}, Course Name: {entry.courseName}, Grade: {entry.grade}, University: {entry.university}")

@@ -1,0 +1,1000 @@
+2022, Data Structures, 96, Oxford University
+2024, Machine Learning, 72, Cambridge University
+2023, Machine Learning, 81, Oxford University
+2022, Artificial Intelligence, 91, Stanford University
+2024, Cyber Security, 84, Stanford University
+2024, Software Engineering, 68, UC Berkeley
+2023, Software Engineering, 64, Stanford University
+2023, Artificial Intelligence, 97, Cambridge University
+2022, Computer Vision, 69, UC Berkeley
+2022, Machine Learning, 71, Cambridge University
+2023, Software Engineering, 77, UC Berkeley
+2022, Machine Learning, 96, Stanford University
+2024, Machine Learning, 96, Stanford University
+2024, Machine Learning, 75, Cambridge University
+2023, Cyber Security, 67, Oxford University
+2023, Computer Vision, 89, MIT
+2022, Computer Vision, 82, Harvard University
+2023, Cyber Security, 78, Cambridge University
+2023, Machine Learning, 75, Stanford University
+2024, Data Structures, 80, Harvard University
+2022, Computer Vision, 76, MIT
+2023, Machine Learning, 66, Harvard University
+2024, Machine Learning, 66, MIT
+2022, Computer Vision, 95, MIT
+2022, Artificial Intelligence, 61, Stanford University
+2023, Data Structures, 84, Cambridge University
+2023, Machine Learning, 78, Harvard University
+2023, Machine Learning, 82, Stanford University
+2023, Cyber Security, 73, Oxford University
+2023, Artificial Intelligence, 74, MIT
+2023, Machine Learning, 100, Stanford University
+2024, Artificial Intelligence, 91, Cambridge University
+2024, Cyber Security, 91, Cambridge University
+2024, Artificial Intelligence, 60, Stanford University
+2022, Computer Vision, 71, Harvard University
+2024, Artificial Intelligence, 74, Stanford University
+2022, Computer Vision, 71, MIT
+2022, Machine Learning, 75, Harvard University
+2024, Data Structures, 85, Harvard University
+2024, Computer Vision, 85, Harvard University
+2023, Computer Vision, 100, Cambridge University
+2022, Cyber Security, 69, Cambridge University
+2024, Artificial Intelligence, 87, UC Berkeley
+2022, Artificial Intelligence, 91, Stanford University
+2023, Data Structures, 62, Stanford University
+2023, Cyber Security, 85, Harvard University
+2023, Software Engineering, 73, UC Berkeley
+2024, Software Engineering, 78, MIT
+2022, Data Structures, 96, MIT
+2022, Artificial Intelligence, 79, UC Berkeley
+2024, Cyber Security, 65, Stanford University
+2023, Artificial Intelligence, 69, MIT
+2022, Computer Vision, 90, MIT
+2023, Data Structures, 81, Cambridge University
+2022, Machine Learning, 63, Cambridge University
+2024, Machine Learning, 61, Harvard University
+2022, Data Structures, 98, Cambridge University
+2022, Cyber Security, 67, UC Berkeley
+2023, Cyber Security, 60, Stanford University
+2024, Computer Vision, 73, Oxford University
+2023, Data Structures, 71, Cambridge University
+2024, Machine Learning, 60, MIT
+2023, Artificial Intelligence, 100, Harvard University
+2022, Artificial Intelligence, 94, UC Berkeley
+2023, Software Engineering, 90, Cambridge University
+2023, Computer Vision, 94, UC Berkeley
+2023, Software Engineering, 100, Stanford University
+2024, Computer Vision, 99, Oxford University
+2022, Computer Vision, 66, Oxford University
+2022, Software Engineering, 80, MIT
+2023, Machine Learning, 95, UC Berkeley
+2024, Software Engineering, 96, MIT
+2022, Software Engineering, 94, Oxford University
+2024, Software Engineering, 69, UC Berkeley
+2022, Computer Vision, 89, Stanford University
+2023, Machine Learning, 62, Cambridge University
+2023, Computer Vision, 73, Oxford University
+2023, Machine Learning, 80, Harvard University
+2022, Cyber Security, 66, UC Berkeley
+2022, Artificial Intelligence, 87, Stanford University
+2022, Computer Vision, 97, Stanford University
+2023, Cyber Security, 61, Stanford University
+2024, Machine Learning, 61, Oxford University
+2022, Data Structures, 86, Oxford University
+2024, Computer Vision, 65, Stanford University
+2023, Machine Learning, 70, Harvard University
+2024, Software Engineering, 99, Oxford University
+2023, Computer Vision, 85, MIT
+2024, Data Structures, 94, MIT
+2024, Artificial Intelligence, 74, UC Berkeley
+2023, Cyber Security, 76, MIT
+2023, Artificial Intelligence, 90, Oxford University
+2023, Cyber Security, 63, MIT
+2022, Artificial Intelligence, 85, Harvard University
+2024, Machine Learning, 77, Cambridge University
+2023, Cyber Security, 64, Harvard University
+2023, Machine Learning, 72, MIT
+2023, Cyber Security, 61, Harvard University
+2022, Artificial Intelligence, 71, Stanford University
+2022, Cyber Security, 100, Cambridge University
+2022, Machine Learning, 71, Stanford University
+2023, Data Structures, 97, Stanford University
+2022, Data Structures, 87, UC Berkeley
+2024, Machine Learning, 81, UC Berkeley
+2024, Data Structures, 68, Cambridge University
+2022, Cyber Security, 61, Cambridge University
+2024, Data Structures, 93, Harvard University
+2022, Machine Learning, 87, Harvard University
+2024, Artificial Intelligence, 95, MIT
+2022, Computer Vision, 85, MIT
+2022, Software Engineering, 93, Stanford University
+2024, Machine Learning, 100, Oxford University
+2023, Data Structures, 78, MIT
+2024, Artificial Intelligence, 90, MIT
+2024, Cyber Security, 71, Oxford University
+2022, Artificial Intelligence, 87, UC Berkeley
+2024, Machine Learning, 75, Oxford University
+2022, Data Structures, 91, UC Berkeley
+2024, Computer Vision, 72, Oxford University
+2022, Software Engineering, 75, Cambridge University
+2024, Software Engineering, 68, Oxford University
+2023, Machine Learning, 78, Cambridge University
+2024, Data Structures, 88, UC Berkeley
+2022, Data Structures, 100, Harvard University
+2023, Artificial Intelligence, 81, Harvard University
+2023, Machine Learning, 89, Harvard University
+2022, Artificial Intelligence, 92, MIT
+2024, Computer Vision, 77, Stanford University
+2024, Computer Vision, 62, Cambridge University
+2024, Cyber Security, 73, Cambridge University
+2024, Software Engineering, 64, Cambridge University
+2022, Software Engineering, 99, Oxford University
+2024, Machine Learning, 65, UC Berkeley
+2024, Computer Vision, 62, MIT
+2022, Data Structures, 76, UC Berkeley
+2023, Computer Vision, 75, UC Berkeley
+2023, Cyber Security, 94, Stanford University
+2023, Software Engineering, 87, Harvard University
+2022, Cyber Security, 90, Harvard University
+2022, Computer Vision, 98, MIT
+2022, Artificial Intelligence, 61, Cambridge University
+2022, Cyber Security, 93, UC Berkeley
+2024, Software Engineering, 92, Oxford University
+2023, Artificial Intelligence, 84, Stanford University
+2022, Computer Vision, 91, Oxford University
+2023, Data Structures, 65, UC Berkeley
+2024, Computer Vision, 72, Stanford University
+2024, Computer Vision, 61, Harvard University
+2024, Computer Vision, 86, Harvard University
+2022, Software Engineering, 90, Harvard University
+2022, Machine Learning, 81, UC Berkeley
+2023, Data Structures, 89, MIT
+2024, Data Structures, 67, Oxford University
+2024, Machine Learning, 86, Cambridge University
+2024, Machine Learning, 86, Stanford University
+2022, Artificial Intelligence, 70, Harvard University
+2023, Data Structures, 99, Cambridge University
+2022, Artificial Intelligence, 75, Cambridge University
+2022, Computer Vision, 62, MIT
+2023, Artificial Intelligence, 94, Cambridge University
+2024, Software Engineering, 90, MIT
+2024, Data Structures, 89, MIT
+2024, Cyber Security, 82, UC Berkeley
+2023, Data Structures, 85, Harvard University
+2023, Software Engineering, 77, Cambridge University
+2023, Computer Vision, 71, MIT
+2024, Cyber Security, 62, UC Berkeley
+2022, Artificial Intelligence, 68, Oxford University
+2023, Machine Learning, 93, UC Berkeley
+2024, Artificial Intelligence, 89, Harvard University
+2022, Artificial Intelligence, 81, Cambridge University
+2022, Artificial Intelligence, 68, Oxford University
+2024, Data Structures, 76, Cambridge University
+2022, Artificial Intelligence, 87, Oxford University
+2024, Data Structures, 79, Cambridge University
+2024, Software Engineering, 86, Cambridge University
+2024, Machine Learning, 81, Harvard University
+2024, Cyber Security, 69, Oxford University
+2022, Cyber Security, 100, Harvard University
+2022, Computer Vision, 84, Stanford University
+2023, Machine Learning, 67, Cambridge University
+2024, Machine Learning, 70, Oxford University
+2022, Software Engineering, 74, Cambridge University
+2024, Computer Vision, 87, Cambridge University
+2022, Computer Vision, 74, Oxford University
+2022, Data Structures, 79, Harvard University
+2023, Software Engineering, 92, UC Berkeley
+2022, Data Structures, 87, Oxford University
+2023, Artificial Intelligence, 72, Oxford University
+2022, Cyber Security, 67, MIT
+2023, Artificial Intelligence, 82, Cambridge University
+2023, Machine Learning, 76, Stanford University
+2023, Computer Vision, 100, Cambridge University
+2023, Cyber Security, 73, Harvard University
+2024, Software Engineering, 69, MIT
+2024, Data Structures, 78, Oxford University
+2022, Computer Vision, 62, Cambridge University
+2022, Machine Learning, 96, Oxford University
+2023, Artificial Intelligence, 66, Oxford University
+2022, Artificial Intelligence, 82, Harvard University
+2024, Cyber Security, 66, UC Berkeley
+2022, Computer Vision, 95, Oxford University
+2023, Cyber Security, 92, UC Berkeley
+2022, Software Engineering, 94, Harvard University
+2023, Computer Vision, 65, Oxford University
+2022, Machine Learning, 71, Cambridge University
+2024, Cyber Security, 95, Cambridge University
+2023, Computer Vision, 69, Oxford University
+2022, Computer Vision, 94, MIT
+2022, Computer Vision, 72, Cambridge University
+2022, Cyber Security, 72, UC Berkeley
+2023, Machine Learning, 98, Oxford University
+2022, Cyber Security, 67, Stanford University
+2022, Artificial Intelligence, 83, Cambridge University
+2022, Machine Learning, 70, Stanford University
+2023, Cyber Security, 86, Harvard University
+2023, Artificial Intelligence, 94, Oxford University
+2023, Machine Learning, 96, Stanford University
+2022, Software Engineering, 80, Oxford University
+2022, Cyber Security, 76, Cambridge University
+2024, Artificial Intelligence, 83, Oxford University
+2022, Machine Learning, 62, Stanford University
+2023, Data Structures, 92, Stanford University
+2023, Computer Vision, 83, Stanford University
+2023, Machine Learning, 85, Harvard University
+2023, Software Engineering, 93, Stanford University
+2022, Data Structures, 66, Oxford University
+2024, Computer Vision, 73, UC Berkeley
+2022, Cyber Security, 73, Oxford University
+2022, Computer Vision, 94, Stanford University
+2022, Data Structures, 62, Harvard University
+2022, Computer Vision, 62, UC Berkeley
+2024, Computer Vision, 78, Stanford University
+2022, Cyber Security, 84, Stanford University
+2024, Computer Vision, 71, UC Berkeley
+2024, Cyber Security, 65, Oxford University
+2023, Software Engineering, 77, Cambridge University
+2023, Artificial Intelligence, 80, Cambridge University
+2023, Artificial Intelligence, 96, MIT
+2022, Machine Learning, 82, MIT
+2023, Data Structures, 84, Cambridge University
+2024, Data Structures, 78, MIT
+2023, Machine Learning, 78, UC Berkeley
+2022, Cyber Security, 64, Cambridge University
+2024, Cyber Security, 89, UC Berkeley
+2023, Data Structures, 93, UC Berkeley
+2024, Artificial Intelligence, 69, Stanford University
+2024, Data Structures, 89, Stanford University
+2023, Data Structures, 60, Stanford University
+2023, Data Structures, 87, Harvard University
+2022, Software Engineering, 91, Oxford University
+2023, Artificial Intelligence, 84, UC Berkeley
+2024, Data Structures, 69, Stanford University
+2023, Artificial Intelligence, 87, Cambridge University
+2022, Software Engineering, 73, UC Berkeley
+2023, Computer Vision, 62, Harvard University
+2024, Cyber Security, 93, Stanford University
+2023, Artificial Intelligence, 78, Oxford University
+2023, Data Structures, 72, Oxford University
+2022, Software Engineering, 66, UC Berkeley
+2023, Computer Vision, 77, Cambridge University
+2022, Computer Vision, 71, Stanford University
+2022, Data Structures, 82, Oxford University
+2022, Data Structures, 73, Oxford University
+2024, Artificial Intelligence, 60, Harvard University
+2023, Cyber Security, 80, UC Berkeley
+2022, Software Engineering, 100, MIT
+2023, Cyber Security, 62, UC Berkeley
+2022, Computer Vision, 91, Oxford University
+2022, Cyber Security, 95, Oxford University
+2022, Cyber Security, 76, Harvard University
+2022, Machine Learning, 71, Cambridge University
+2024, Data Structures, 77, UC Berkeley
+2023, Cyber Security, 99, Stanford University
+2023, Software Engineering, 80, MIT
+2023, Machine Learning, 99, MIT
+2023, Artificial Intelligence, 73, Oxford University
+2023, Machine Learning, 60, Stanford University
+2023, Software Engineering, 89, Cambridge University
+2022, Software Engineering, 91, MIT
+2022, Data Structures, 83, Harvard University
+2023, Software Engineering, 68, Oxford University
+2023, Cyber Security, 77, Oxford University
+2022, Artificial Intelligence, 87, Harvard University
+2023, Artificial Intelligence, 64, Stanford University
+2024, Data Structures, 85, MIT
+2022, Data Structures, 84, Oxford University
+2024, Computer Vision, 84, Stanford University
+2024, Data Structures, 61, UC Berkeley
+2023, Software Engineering, 61, MIT
+2023, Machine Learning, 88, Cambridge University
+2024, Artificial Intelligence, 60, UC Berkeley
+2024, Cyber Security, 93, Harvard University
+2023, Data Structures, 82, UC Berkeley
+2023, Cyber Security, 94, Harvard University
+2024, Software Engineering, 81, Oxford University
+2022, Software Engineering, 91, UC Berkeley
+2022, Software Engineering, 72, Harvard University
+2024, Computer Vision, 90, Oxford University
+2023, Computer Vision, 86, Stanford University
+2023, Cyber Security, 89, MIT
+2023, Machine Learning, 77, Stanford University
+2023, Cyber Security, 83, Oxford University
+2024, Cyber Security, 78, UC Berkeley
+2024, Data Structures, 66, UC Berkeley
+2022, Software Engineering, 68, Cambridge University
+2024, Software Engineering, 88, Cambridge University
+2022, Machine Learning, 69, Cambridge University
+2024, Cyber Security, 81, MIT
+2023, Cyber Security, 98, Oxford University
+2023, Cyber Security, 87, Oxford University
+2024, Machine Learning, 69, Cambridge University
+2023, Data Structures, 95, Stanford University
+2023, Computer Vision, 63, UC Berkeley
+2024, Software Engineering, 88, UC Berkeley
+2023, Computer Vision, 91, Harvard University
+2022, Cyber Security, 85, Harvard University
+2023, Computer Vision, 69, Harvard University
+2024, Computer Vision, 70, Cambridge University
+2023, Cyber Security, 97, Cambridge University
+2023, Machine Learning, 100, Harvard University
+2022, Software Engineering, 71, MIT
+2024, Machine Learning, 89, UC Berkeley
+2022, Artificial Intelligence, 80, Oxford University
+2022, Computer Vision, 91, MIT
+2024, Computer Vision, 93, UC Berkeley
+2022, Cyber Security, 83, Oxford University
+2024, Cyber Security, 77, MIT
+2022, Data Structures, 71, Harvard University
+2022, Computer Vision, 66, Harvard University
+2024, Data Structures, 96, Cambridge University
+2024, Computer Vision, 83, Harvard University
+2024, Software Engineering, 65, UC Berkeley
+2023, Software Engineering, 96, Oxford University
+2023, Computer Vision, 70, Oxford University
+2022, Cyber Security, 97, Cambridge University
+2024, Artificial Intelligence, 72, Cambridge University
+2024, Data Structures, 97, Cambridge University
+2024, Artificial Intelligence, 92, MIT
+2022, Data Structures, 60, Harvard University
+2024, Computer Vision, 70, MIT
+2024, Artificial Intelligence, 80, Stanford University
+2022, Data Structures, 83, Harvard University
+2023, Cyber Security, 88, Stanford University
+2022, Computer Vision, 87, Cambridge University
+2024, Software Engineering, 83, Cambridge University
+2022, Artificial Intelligence, 93, Harvard University
+2024, Cyber Security, 86, Cambridge University
+2023, Machine Learning, 98, UC Berkeley
+2022, Cyber Security, 64, Oxford University
+2022, Machine Learning, 93, MIT
+2024, Machine Learning, 87, UC Berkeley
+2024, Artificial Intelligence, 71, UC Berkeley
+2023, Software Engineering, 60, Stanford University
+2024, Data Structures, 96, Harvard University
+2024, Machine Learning, 65, Oxford University
+2023, Machine Learning, 82, Harvard University
+2022, Data Structures, 80, UC Berkeley
+2022, Data Structures, 76, Harvard University
+2024, Data Structures, 68, Oxford University
+2022, Software Engineering, 61, Harvard University
+2022, Computer Vision, 74, Harvard University
+2022, Software Engineering, 61, Cambridge University
+2022, Machine Learning, 63, Cambridge University
+2024, Cyber Security, 96, Harvard University
+2023, Artificial Intelligence, 70, Cambridge University
+2023, Computer Vision, 94, UC Berkeley
+2024, Machine Learning, 68, Cambridge University
+2022, Software Engineering, 77, Oxford University
+2022, Computer Vision, 83, Harvard University
+2023, Computer Vision, 99, Stanford University
+2024, Data Structures, 95, MIT
+2023, Software Engineering, 66, UC Berkeley
+2022, Cyber Security, 81, Stanford University
+2024, Cyber Security, 61, UC Berkeley
+2024, Computer Vision, 60, Harvard University
+2024, Cyber Security, 66, MIT
+2023, Cyber Security, 67, Oxford University
+2022, Data Structures, 99, Stanford University
+2022, Data Structures, 99, Stanford University
+2022, Software Engineering, 67, Stanford University
+2023, Artificial Intelligence, 76, Harvard University
+2022, Software Engineering, 76, UC Berkeley
+2024, Artificial Intelligence, 62, MIT
+2023, Data Structures, 61, Stanford University
+2022, Cyber Security, 92, Stanford University
+2023, Data Structures, 86, Cambridge University
+2022, Cyber Security, 92, MIT
+2023, Software Engineering, 95, Harvard University
+2023, Data Structures, 95, Harvard University
+2023, Data Structures, 100, Stanford University
+2023, Machine Learning, 100, Oxford University
+2022, Artificial Intelligence, 88, Stanford University
+2024, Cyber Security, 82, Oxford University
+2023, Data Structures, 76, MIT
+2023, Artificial Intelligence, 87, UC Berkeley
+2022, Software Engineering, 63, Harvard University
+2024, Computer Vision, 80, Stanford University
+2023, Software Engineering, 100, Stanford University
+2023, Machine Learning, 79, UC Berkeley
+2022, Software Engineering, 94, MIT
+2023, Artificial Intelligence, 92, Cambridge University
+2023, Computer Vision, 82, Stanford University
+2024, Data Structures, 86, UC Berkeley
+2022, Data Structures, 78, Harvard University
+2023, Data Structures, 69, Stanford University
+2023, Artificial Intelligence, 98, Stanford University
+2024, Computer Vision, 79, UC Berkeley
+2023, Machine Learning, 86, Cambridge University
+2023, Software Engineering, 75, Oxford University
+2023, Computer Vision, 85, MIT
+2023, Artificial Intelligence, 62, Harvard University
+2022, Machine Learning, 81, Harvard University
+2022, Cyber Security, 81, MIT
+2022, Software Engineering, 100, UC Berkeley
+2023, Software Engineering, 90, UC Berkeley
+2022, Artificial Intelligence, 64, Oxford University
+2023, Cyber Security, 92, Cambridge University
+2023, Artificial Intelligence, 87, Oxford University
+2023, Machine Learning, 66, MIT
+2023, Computer Vision, 70, Cambridge University
+2024, Software Engineering, 74, Cambridge University
+2024, Computer Vision, 67, Stanford University
+2023, Computer Vision, 88, Stanford University
+2023, Machine Learning, 97, Cambridge University
+2023, Data Structures, 96, Cambridge University
+2024, Computer Vision, 69, MIT
+2022, Software Engineering, 71, Harvard University
+2023, Data Structures, 73, Harvard University
+2023, Computer Vision, 83, MIT
+2022, Computer Vision, 100, MIT
+2022, Machine Learning, 61, Harvard University
+2022, Artificial Intelligence, 82, Oxford University
+2024, Artificial Intelligence, 74, Harvard University
+2024, Cyber Security, 67, UC Berkeley
+2022, Machine Learning, 90, Stanford University
+2024, Computer Vision, 76, Cambridge University
+2024, Artificial Intelligence, 90, Oxford University
+2024, Machine Learning, 69, MIT
+2022, Machine Learning, 100, MIT
+2022, Computer Vision, 99, Cambridge University
+2022, Computer Vision, 99, UC Berkeley
+2024, Machine Learning, 100, Oxford University
+2023, Artificial Intelligence, 64, Cambridge University
+2024, Software Engineering, 72, MIT
+2022, Cyber Security, 78, Oxford University
+2024, Cyber Security, 87, Cambridge University
+2023, Machine Learning, 66, UC Berkeley
+2024, Cyber Security, 65, Stanford University
+2023, Artificial Intelligence, 95, MIT
+2023, Artificial Intelligence, 65, UC Berkeley
+2022, Software Engineering, 71, MIT
+2022, Computer Vision, 80, MIT
+2024, Cyber Security, 94, Harvard University
+2023, Software Engineering, 80, MIT
+2023, Computer Vision, 62, Stanford University
+2022, Machine Learning, 85, Cambridge University
+2024, Artificial Intelligence, 71, Oxford University
+2023, Data Structures, 68, UC Berkeley
+2022, Computer Vision, 68, Harvard University
+2024, Software Engineering, 91, Stanford University
+2023, Computer Vision, 83, MIT
+2024, Software Engineering, 63, Cambridge University
+2022, Artificial Intelligence, 63, Cambridge University
+2024, Software Engineering, 97, Oxford University
+2024, Artificial Intelligence, 76, MIT
+2022, Cyber Security, 84, Oxford University
+2024, Cyber Security, 100, Cambridge University
+2023, Software Engineering, 61, UC Berkeley
+2022, Data Structures, 94, UC Berkeley
+2023, Cyber Security, 64, Harvard University
+2024, Machine Learning, 86, MIT
+2024, Artificial Intelligence, 85, Harvard University
+2022, Machine Learning, 83, UC Berkeley
+2022, Computer Vision, 74, Oxford University
+2024, Software Engineering, 65, Oxford University
+2024, Machine Learning, 63, Harvard University
+2024, Artificial Intelligence, 78, MIT
+2022, Software Engineering, 68, Harvard University
+2023, Artificial Intelligence, 76, Stanford University
+2023, Software Engineering, 77, Cambridge University
+2023, Software Engineering, 78, UC Berkeley
+2023, Software Engineering, 86, Oxford University
+2023, Cyber Security, 100, Cambridge University
+2022, Data Structures, 62, Oxford University
+2023, Software Engineering, 67, Oxford University
+2024, Software Engineering, 91, MIT
+2022, Machine Learning, 74, Oxford University
+2024, Cyber Security, 71, Oxford University
+2023, Artificial Intelligence, 74, Stanford University
+2024, Computer Vision, 62, Stanford University
+2022, Cyber Security, 79, MIT
+2023, Data Structures, 96, Oxford University
+2022, Cyber Security, 64, MIT
+2024, Machine Learning, 72, Stanford University
+2022, Artificial Intelligence, 66, Harvard University
+2022, Artificial Intelligence, 73, UC Berkeley
+2024, Cyber Security, 95, MIT
+2023, Machine Learning, 81, UC Berkeley
+2023, Computer Vision, 98, Harvard University
+2022, Computer Vision, 66, Oxford University
+2022, Machine Learning, 66, MIT
+2022, Software Engineering, 93, Cambridge University
+2024, Cyber Security, 100, UC Berkeley
+2023, Cyber Security, 67, UC Berkeley
+2024, Machine Learning, 62, Stanford University
+2024, Artificial Intelligence, 67, Oxford University
+2023, Data Structures, 79, Cambridge University
+2023, Data Structures, 99, UC Berkeley
+2024, Computer Vision, 90, Harvard University
+2024, Computer Vision, 83, Stanford University
+2024, Computer Vision, 61, Harvard University
+2022, Artificial Intelligence, 90, Stanford University
+2022, Software Engineering, 71, Cambridge University
+2022, Artificial Intelligence, 77, MIT
+2024, Artificial Intelligence, 87, UC Berkeley
+2023, Data Structures, 66, Stanford University
+2024, Software Engineering, 73, Stanford University
+2022, Computer Vision, 76, Oxford University
+2022, Computer Vision, 85, UC Berkeley
+2023, Artificial Intelligence, 80, Stanford University
+2022, Data Structures, 100, Oxford University
+2024, Software Engineering, 95, Harvard University
+2024, Cyber Security, 64, Stanford University
+2023, Software Engineering, 66, UC Berkeley
+2022, Artificial Intelligence, 62, UC Berkeley
+2024, Data Structures, 69, Cambridge University
+2024, Software Engineering, 94, MIT
+2022, Computer Vision, 84, Oxford University
+2022, Computer Vision, 79, MIT
+2022, Cyber Security, 62, Oxford University
+2024, Software Engineering, 78, Oxford University
+2024, Cyber Security, 92, Cambridge University
+2023, Machine Learning, 95, Oxford University
+2024, Data Structures, 76, Harvard University
+2022, Software Engineering, 73, Oxford University
+2022, Computer Vision, 93, Cambridge University
+2024, Computer Vision, 100, Oxford University
+2024, Cyber Security, 87, Cambridge University
+2023, Computer Vision, 100, MIT
+2024, Machine Learning, 66, Cambridge University
+2022, Software Engineering, 75, Oxford University
+2023, Computer Vision, 75, Stanford University
+2024, Cyber Security, 91, Cambridge University
+2022, Data Structures, 74, Stanford University
+2023, Artificial Intelligence, 90, Harvard University
+2023, Software Engineering, 61, MIT
+2022, Cyber Security, 62, Harvard University
+2024, Data Structures, 83, Harvard University
+2022, Computer Vision, 85, UC Berkeley
+2022, Cyber Security, 74, Cambridge University
+2022, Machine Learning, 76, Harvard University
+2023, Cyber Security, 96, Cambridge University
+2022, Software Engineering, 69, Oxford University
+2023, Data Structures, 99, Harvard University
+2024, Artificial Intelligence, 72, Cambridge University
+2022, Machine Learning, 80, Cambridge University
+2023, Data Structures, 100, Cambridge University
+2023, Data Structures, 94, UC Berkeley
+2022, Software Engineering, 78, UC Berkeley
+2022, Data Structures, 100, UC Berkeley
+2022, Cyber Security, 64, UC Berkeley
+2024, Cyber Security, 60, Oxford University
+2024, Cyber Security, 99, Harvard University
+2024, Computer Vision, 92, Stanford University
+2022, Artificial Intelligence, 85, MIT
+2023, Cyber Security, 62, Harvard University
+2023, Computer Vision, 64, UC Berkeley
+2024, Computer Vision, 87, MIT
+2022, Data Structures, 88, Harvard University
+2022, Data Structures, 76, Harvard University
+2023, Artificial Intelligence, 75, Oxford University
+2023, Cyber Security, 86, MIT
+2022, Cyber Security, 72, Stanford University
+2022, Computer Vision, 78, Oxford University
+2024, Machine Learning, 62, Harvard University
+2023, Computer Vision, 89, UC Berkeley
+2023, Computer Vision, 67, MIT
+2024, Cyber Security, 99, UC Berkeley
+2024, Software Engineering, 68, Harvard University
+2023, Machine Learning, 84, Oxford University
+2022, Machine Learning, 80, MIT
+2024, Data Structures, 68, UC Berkeley
+2022, Machine Learning, 70, MIT
+2022, Data Structures, 84, Harvard University
+2024, Artificial Intelligence, 83, Harvard University
+2024, Data Structures, 61, MIT
+2024, Artificial Intelligence, 79, Oxford University
+2023, Machine Learning, 78, Oxford University
+2023, Artificial Intelligence, 69, Stanford University
+2022, Machine Learning, 69, MIT
+2024, Computer Vision, 94, MIT
+2024, Computer Vision, 85, Harvard University
+2024, Cyber Security, 67, Cambridge University
+2022, Computer Vision, 73, Oxford University
+2024, Artificial Intelligence, 63, Oxford University
+2022, Cyber Security, 68, Cambridge University
+2022, Machine Learning, 97, Cambridge University
+2023, Cyber Security, 95, UC Berkeley
+2024, Software Engineering, 65, Oxford University
+2023, Computer Vision, 96, Stanford University
+2023, Machine Learning, 84, UC Berkeley
+2024, Cyber Security, 88, UC Berkeley
+2022, Cyber Security, 68, Harvard University
+2023, Software Engineering, 65, Harvard University
+2022, Cyber Security, 60, UC Berkeley
+2024, Artificial Intelligence, 98, Oxford University
+2024, Machine Learning, 81, Harvard University
+2023, Data Structures, 60, Harvard University
+2024, Artificial Intelligence, 76, Cambridge University
+2023, Computer Vision, 70, MIT
+2022, Computer Vision, 69, Harvard University
+2022, Artificial Intelligence, 63, UC Berkeley
+2023, Artificial Intelligence, 68, UC Berkeley
+2022, Artificial Intelligence, 62, UC Berkeley
+2024, Cyber Security, 68, Cambridge University
+2023, Machine Learning, 85, Cambridge University
+2024, Cyber Security, 94, UC Berkeley
+2022, Software Engineering, 90, UC Berkeley
+2024, Artificial Intelligence, 82, Cambridge University
+2024, Software Engineering, 65, Oxford University
+2023, Cyber Security, 61, Harvard University
+2023, Machine Learning, 70, MIT
+2022, Cyber Security, 78, Harvard University
+2023, Artificial Intelligence, 97, Harvard University
+2023, Software Engineering, 71, Harvard University
+2024, Software Engineering, 94, MIT
+2023, Cyber Security, 70, Oxford University
+2023, Artificial Intelligence, 74, Stanford University
+2024, Artificial Intelligence, 80, UC Berkeley
+2024, Cyber Security, 61, Cambridge University
+2024, Cyber Security, 72, Stanford University
+2024, Machine Learning, 67, Cambridge University
+2024, Cyber Security, 76, Stanford University
+2024, Data Structures, 84, Stanford University
+2023, Computer Vision, 80, Cambridge University
+2022, Machine Learning, 64, Stanford University
+2023, Computer Vision, 90, Oxford University
+2022, Data Structures, 97, MIT
+2024, Artificial Intelligence, 91, Oxford University
+2022, Data Structures, 73, Harvard University
+2024, Computer Vision, 87, MIT
+2024, Cyber Security, 72, Cambridge University
+2022, Machine Learning, 72, MIT
+2023, Artificial Intelligence, 74, UC Berkeley
+2022, Computer Vision, 64, UC Berkeley
+2023, Cyber Security, 80, Oxford University
+2022, Machine Learning, 75, Cambridge University
+2024, Computer Vision, 86, Harvard University
+2023, Computer Vision, 64, Cambridge University
+2023, Computer Vision, 64, Cambridge University
+2022, Computer Vision, 100, Harvard University
+2024, Computer Vision, 89, Harvard University
+2022, Computer Vision, 66, Oxford University
+2024, Machine Learning, 82, Stanford University
+2022, Artificial Intelligence, 76, Oxford University
+2023, Data Structures, 60, UC Berkeley
+2022, Computer Vision, 100, UC Berkeley
+2023, Software Engineering, 70, Oxford University
+2024, Software Engineering, 100, Oxford University
+2022, Data Structures, 100, Oxford University
+2023, Computer Vision, 78, UC Berkeley
+2023, Machine Learning, 92, MIT
+2023, Software Engineering, 63, Stanford University
+2022, Software Engineering, 63, Oxford University
+2024, Machine Learning, 69, Oxford University
+2023, Computer Vision, 68, MIT
+2023, Software Engineering, 84, Cambridge University
+2023, Cyber Security, 96, Stanford University
+2024, Artificial Intelligence, 70, UC Berkeley
+2024, Software Engineering, 64, Harvard University
+2022, Cyber Security, 75, Cambridge University
+2024, Machine Learning, 97, Oxford University
+2022, Software Engineering, 97, MIT
+2024, Machine Learning, 87, Harvard University
+2022, Artificial Intelligence, 88, Harvard University
+2022, Computer Vision, 64, Harvard University
+2023, Software Engineering, 61, Harvard University
+2022, Software Engineering, 66, Cambridge University
+2022, Software Engineering, 68, Stanford University
+2024, Artificial Intelligence, 80, UC Berkeley
+2023, Computer Vision, 63, MIT
+2023, Software Engineering, 86, Stanford University
+2023, Computer Vision, 84, Harvard University
+2024, Artificial Intelligence, 94, Oxford University
+2022, Artificial Intelligence, 79, MIT
+2024, Machine Learning, 66, Harvard University
+2023, Software Engineering, 88, Cambridge University
+2023, Machine Learning, 81, UC Berkeley
+2022, Computer Vision, 67, UC Berkeley
+2022, Data Structures, 82, Stanford University
+2022, Data Structures, 64, Cambridge University
+2022, Software Engineering, 81, Oxford University
+2023, Machine Learning, 65, Cambridge University
+2022, Artificial Intelligence, 84, Stanford University
+2022, Machine Learning, 95, Stanford University
+2022, Cyber Security, 61, Stanford University
+2023, Cyber Security, 70, Stanford University
+2023, Data Structures, 95, Stanford University
+2022, Computer Vision, 67, Cambridge University
+2024, Data Structures, 74, Harvard University
+2023, Data Structures, 76, MIT
+2024, Data Structures, 82, UC Berkeley
+2024, Artificial Intelligence, 85, Stanford University
+2022, Software Engineering, 92, Stanford University
+2022, Computer Vision, 70, MIT
+2023, Data Structures, 80, Oxford University
+2022, Cyber Security, 97, Oxford University
+2023, Software Engineering, 65, UC Berkeley
+2022, Computer Vision, 62, Harvard University
+2022, Machine Learning, 95, Oxford University
+2023, Computer Vision, 68, UC Berkeley
+2022, Machine Learning, 89, Harvard University
+2022, Artificial Intelligence, 74, Stanford University
+2023, Data Structures, 93, MIT
+2022, Computer Vision, 65, Cambridge University
+2024, Artificial Intelligence, 77, Stanford University
+2024, Machine Learning, 77, Cambridge University
+2023, Computer Vision, 60, Oxford University
+2023, Machine Learning, 84, Stanford University
+2024, Computer Vision, 99, Stanford University
+2022, Data Structures, 92, Cambridge University
+2023, Computer Vision, 61, Cambridge University
+2024, Computer Vision, 94, Cambridge University
+2022, Software Engineering, 98, Stanford University
+2022, Computer Vision, 87, Cambridge University
+2023, Cyber Security, 98, MIT
+2023, Software Engineering, 76, MIT
+2022, Software Engineering, 75, Cambridge University
+2022, Artificial Intelligence, 65, Stanford University
+2022, Machine Learning, 80, UC Berkeley
+2024, Data Structures, 60, Cambridge University
+2023, Computer Vision, 92, Harvard University
+2022, Machine Learning, 94, MIT
+2024, Machine Learning, 72, Harvard University
+2023, Software Engineering, 65, Harvard University
+2024, Artificial Intelligence, 91, Cambridge University
+2023, Cyber Security, 78, MIT
+2023, Cyber Security, 96, Harvard University
+2023, Machine Learning, 76, Cambridge University
+2023, Computer Vision, 86, MIT
+2024, Software Engineering, 70, Oxford University
+2024, Cyber Security, 92, Harvard University
+2022, Software Engineering, 63, Cambridge University
+2024, Data Structures, 70, Stanford University
+2022, Artificial Intelligence, 64, Oxford University
+2024, Software Engineering, 79, Stanford University
+2024, Software Engineering, 62, Oxford University
+2024, Cyber Security, 73, UC Berkeley
+2022, Machine Learning, 71, Oxford University
+2023, Data Structures, 73, Oxford University
+2023, Cyber Security, 60, Oxford University
+2024, Machine Learning, 61, Harvard University
+2022, Computer Vision, 64, Cambridge University
+2022, Data Structures, 93, Stanford University
+2023, Data Structures, 96, Stanford University
+2023, Data Structures, 60, Oxford University
+2023, Artificial Intelligence, 78, UC Berkeley
+2024, Cyber Security, 66, UC Berkeley
+2022, Machine Learning, 66, Oxford University
+2022, Artificial Intelligence, 62, MIT
+2022, Data Structures, 91, UC Berkeley
+2022, Cyber Security, 96, Cambridge University
+2024, Software Engineering, 67, Harvard University
+2024, Computer Vision, 90, Stanford University
+2022, Cyber Security, 60, UC Berkeley
+2024, Computer Vision, 89, Oxford University
+2022, Computer Vision, 96, UC Berkeley
+2024, Cyber Security, 77, MIT
+2022, Computer Vision, 90, Cambridge University
+2023, Machine Learning, 93, Cambridge University
+2024, Cyber Security, 70, UC Berkeley
+2022, Computer Vision, 60, Stanford University
+2024, Artificial Intelligence, 75, UC Berkeley
+2023, Computer Vision, 67, Oxford University
+2023, Cyber Security, 76, MIT
+2022, Artificial Intelligence, 94, Stanford University
+2024, Cyber Security, 89, Harvard University
+2022, Software Engineering, 99, Cambridge University
+2024, Cyber Security, 60, Stanford University
+2024, Cyber Security, 89, Cambridge University
+2022, Cyber Security, 64, UC Berkeley
+2022, Machine Learning, 99, UC Berkeley
+2024, Artificial Intelligence, 79, Stanford University
+2022, Artificial Intelligence, 99, MIT
+2024, Artificial Intelligence, 60, MIT
+2023, Artificial Intelligence, 71, Harvard University
+2022, Software Engineering, 69, Cambridge University
+2023, Artificial Intelligence, 88, Stanford University
+2023, Computer Vision, 68, Stanford University
+2022, Machine Learning, 81, Oxford University
+2022, Machine Learning, 82, UC Berkeley
+2023, Software Engineering, 76, Stanford University
+2024, Data Structures, 91, MIT
+2022, Data Structures, 85, Cambridge University
+2023, Cyber Security, 72, MIT
+2022, Data Structures, 65, UC Berkeley
+2024, Machine Learning, 95, Stanford University
+2024, Data Structures, 87, Cambridge University
+2024, Artificial Intelligence, 72, Cambridge University
+2024, Software Engineering, 70, MIT
+2024, Machine Learning, 65, UC Berkeley
+2024, Machine Learning, 100, Oxford University
+2022, Software Engineering, 62, Stanford University
+2023, Machine Learning, 63, Cambridge University
+2024, Data Structures, 100, MIT
+2024, Software Engineering, 90, Cambridge University
+2022, Software Engineering, 85, UC Berkeley
+2022, Software Engineering, 95, UC Berkeley
+2023, Artificial Intelligence, 76, MIT
+2023, Machine Learning, 72, Harvard University
+2023, Machine Learning, 91, Stanford University
+2023, Artificial Intelligence, 79, Cambridge University
+2023, Computer Vision, 99, MIT
+2024, Data Structures, 99, MIT
+2024, Cyber Security, 67, Oxford University
+2023, Cyber Security, 69, Oxford University
+2024, Machine Learning, 95, Harvard University
+2022, Machine Learning, 82, Harvard University
+2024, Software Engineering, 75, Stanford University
+2023, Computer Vision, 89, MIT
+2022, Cyber Security, 90, UC Berkeley
+2023, Software Engineering, 79, Oxford University
+2023, Computer Vision, 62, Oxford University
+2022, Cyber Security, 99, Cambridge University
+2024, Machine Learning, 69, Stanford University
+2024, Data Structures, 92, Cambridge University
+2023, Computer Vision, 94, Cambridge University
+2022, Data Structures, 68, Cambridge University
+2024, Data Structures, 76, MIT
+2022, Computer Vision, 64, Cambridge University
+2022, Data Structures, 68, UC Berkeley
+2024, Machine Learning, 95, Oxford University
+2023, Data Structures, 63, MIT
+2023, Software Engineering, 73, Stanford University
+2022, Data Structures, 75, UC Berkeley
+2023, Software Engineering, 66, Cambridge University
+2024, Artificial Intelligence, 76, Oxford University
+2024, Cyber Security, 65, Oxford University
+2023, Data Structures, 92, UC Berkeley
+2022, Computer Vision, 95, Cambridge University
+2024, Data Structures, 82, UC Berkeley
+2023, Software Engineering, 63, Cambridge University
+2022, Cyber Security, 82, Oxford University
+2023, Artificial Intelligence, 92, Cambridge University
+2023, Machine Learning, 63, MIT
+2024, Data Structures, 88, Stanford University
+2022, Computer Vision, 95, Harvard University
+2022, Data Structures, 67, Oxford University
+2022, Cyber Security, 64, UC Berkeley
+2023, Artificial Intelligence, 87, Stanford University
+2022, Computer Vision, 76, MIT
+2022, Software Engineering, 96, Stanford University
+2022, Data Structures, 72, UC Berkeley
+2022, Software Engineering, 60, UC Berkeley
+2023, Data Structures, 61, Harvard University
+2022, Artificial Intelligence, 83, Oxford University
+2023, Software Engineering, 63, Harvard University
+2022, Cyber Security, 73, Oxford University
+2023, Software Engineering, 67, Stanford University
+2023, Machine Learning, 87, Cambridge University
+2023, Data Structures, 98, UC Berkeley
+2024, Software Engineering, 88, Stanford University
+2022, Computer Vision, 64, UC Berkeley
+2023, Data Structures, 89, Oxford University
+2024, Software Engineering, 60, Cambridge University
+2023, Computer Vision, 84, Stanford University
+2024, Machine Learning, 68, Stanford University
+2023, Cyber Security, 63, UC Berkeley
+2024, Data Structures, 90, Harvard University
+2023, Software Engineering, 91, Oxford University
+2024, Cyber Security, 66, MIT
+2022, Artificial Intelligence, 79, UC Berkeley
+2023, Cyber Security, 83, UC Berkeley
+2024, Data Structures, 67, Oxford University
+2023, Data Structures, 95, Oxford University
+2024, Software Engineering, 69, Cambridge University
+2024, Cyber Security, 89, Oxford University
+2024, Data Structures, 100, Stanford University
+2023, Machine Learning, 78, MIT
+2023, Data Structures, 87, MIT
+2023, Computer Vision, 68, UC Berkeley
+2024, Computer Vision, 66, Stanford University
+2022, Computer Vision, 84, MIT
+2022, Artificial Intelligence, 99, UC Berkeley
+2022, Machine Learning, 100, Oxford University
+2023, Machine Learning, 89, Oxford University
+2024, Artificial Intelligence, 66, Stanford University
+2023, Artificial Intelligence, 84, UC Berkeley
+2022, Computer Vision, 95, Cambridge University
+2024, Data Structures, 91, MIT
+2024, Data Structures, 85, Cambridge University
+2023, Artificial Intelligence, 73, Harvard University
+2023, Machine Learning, 83, Harvard University
+2022, Software Engineering, 83, Cambridge University
+2024, Software Engineering, 76, UC Berkeley
+2022, Software Engineering, 98, Cambridge University
+2024, Computer Vision, 77, Stanford University
+2022, Artificial Intelligence, 90, Cambridge University
+2023, Software Engineering, 65, UC Berkeley
+2024, Artificial Intelligence, 77, UC Berkeley
+2023, Software Engineering, 81, Cambridge University
+2023, Artificial Intelligence, 74, UC Berkeley
+2022, Artificial Intelligence, 93, Oxford University
+2022, Computer Vision, 65, Harvard University
+2022, Computer Vision, 95, UC Berkeley
+2023, Machine Learning, 81, Stanford University
+2022, Data Structures, 79, Cambridge University
+2023, Software Engineering, 86, MIT
+2022, Computer Vision, 86, Harvard University
+2022, Computer Vision, 68, Stanford University
+2023, Data Structures, 65, MIT
+2022, Data Structures, 70, Stanford University
+2023, Software Engineering, 100, UC Berkeley
+2022, Data Structures, 78, Stanford University
+2022, Artificial Intelligence, 79, MIT
+2022, Data Structures, 71, UC Berkeley
+2022, Data Structures, 93, Harvard University
+2023, Cyber Security, 85, UC Berkeley
+2023, Computer Vision, 97, Stanford University
+2023, Data Structures, 80, Cambridge University
+2022, Computer Vision, 98, Cambridge University
+2024, Computer Vision, 81, UC Berkeley
+2023, Artificial Intelligence, 85, Stanford University
+2022, Computer Vision, 100, Stanford University
+2024, Computer Vision, 91, Oxford University
+2022, Machine Learning, 88, Cambridge University
+2023, Machine Learning, 68, Harvard University
+2024, Computer Vision, 98, MIT
+2023, Software Engineering, 97, Cambridge University
+2024, Data Structures, 85, Harvard University
+2024, Computer Vision, 67, MIT
+2022, Machine Learning, 63, Stanford University
+2024, Cyber Security, 88, Stanford University
+2022, Computer Vision, 84, Harvard University
+2024, Computer Vision, 75, Stanford University
+2022, Artificial Intelligence, 83, Oxford University
+2023, Artificial Intelligence, 77, Stanford University
+2022, Machine Learning, 73, Harvard University
+2023, Data Structures, 69, Stanford University
+2024, Machine Learning, 84, Harvard University
+2022, Computer Vision, 69, UC Berkeley
+2022, Software Engineering, 81, UC Berkeley
+2024, Computer Vision, 72, Oxford University
+2022, Cyber Security, 81, UC Berkeley
+2023, Software Engineering, 75, Stanford University
+2023, Software Engineering, 64, Cambridge University
+2024, Artificial Intelligence, 71, Harvard University
+2022, Data Structures, 67, UC Berkeley
+2022, Data Structures, 61, UC Berkeley
+2023, Software Engineering, 64, Stanford University
+2022, Data Structures, 79, Cambridge University
+2022, Data Structures, 97, Harvard University
+2024, Artificial Intelligence, 92, Cambridge University
+2024, Machine Learning, 76, Oxford University
+2022, Cyber Security, 94, Oxford University
+2024, Machine Learning, 74, UC Berkeley
+2023, Artificial Intelligence, 73, Cambridge University
+2024, Data Structures, 74, Oxford University
+2022, Cyber Security, 91, MIT
+2023, Data Structures, 77, Cambridge University
+2022, Computer Vision, 79, UC Berkeley
+2024, Computer Vision, 98, Harvard University
+2022, Artificial Intelligence, 84, Cambridge University
+2022, Machine Learning, 98, Stanford University
+2024, Cyber Security, 90, Oxford University
+2024, Computer Vision, 97, Oxford University
+2022, Computer Vision, 79, Stanford University
+2022, Machine Learning, 94, Harvard University
+2023, Computer Vision, 90, Stanford University
+2024, Artificial Intelligence, 76, UC Berkeley
+2024, Computer Vision, 65, Cambridge University
+2022, Machine Learning, 64, UC Berkeley
+2023, Computer Vision, 70, Cambridge University
+2024, Software Engineering, 62, Cambridge University
+2024, Software Engineering, 64, MIT
+2022, Computer Vision, 73, Cambridge University
+2024, Artificial Intelligence, 70, Harvard University
+2022, Cyber Security, 76, Stanford University
+2022, Artificial Intelligence, 79, MIT
+2022, Cyber Security, 88, Stanford University
+2023, Software Engineering, 84, Harvard University
+2024, Software Engineering, 74, Oxford University
+2023, Cyber Security, 66, Harvard University
+2024, Cyber Security, 74, MIT
+2023, Cyber Security, 63, Cambridge University
+2022, Computer Vision, 77, Stanford University
+2024, Machine Learning, 85, Harvard University
+2023, Artificial Intelligence, 98, UC Berkeley
+2023, Cyber Security, 90, MIT
+2023, Cyber Security, 79, Oxford University
+2023, Machine Learning, 82, Harvard University
+2023, Software Engineering, 69, UC Berkeley
+2024, Artificial Intelligence, 84, Oxford University
+2022, Machine Learning, 88, MIT
+2023, Data Structures, 80, Oxford University
+2022, Cyber Security, 83, Stanford University
+2023, Data Structures, 81, Stanford University
+2024, Machine Learning, 84, MIT
+2024, Software Engineering, 99, MIT
