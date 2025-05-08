@@ -1,4 +1,5 @@
 from Data_Class import dataEntry, dataset
+from collections import defaultdict
 
 import threading
 import time
@@ -36,6 +37,18 @@ def thread_loop2():
         time.sleep(1)
     dataset.printStack()
 
+def verify_entries(entries_list):
+    course_counts = defaultdict(int)
+    for entry in entries_list:
+        course_counts[entry.courseName] += 1
+
+    print("\n=== Dataset Verification ===")
+    print(f"Total entries: {len(entries_list)}")
+    print("Course distribution:")
+    for course, count in course_counts.items():
+        print(f"{course}: {count}")
+
+
 thread = threading.Thread(target=thread_loop, name="LoopThread")
 thread2 = threading.Thread(target=thread_loop2, name="LoopThread2")
 thread.start()
@@ -43,3 +56,5 @@ thread2.start()
 
 thread.join()
 thread2.join()
+
+verify_entries(dataset.data_stack)
