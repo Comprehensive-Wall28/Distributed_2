@@ -2,6 +2,7 @@ import threading
 import time
 import random
 
+
 shared_data = []
 data_lock = threading.Lock()
 
