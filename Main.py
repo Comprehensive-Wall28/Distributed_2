@@ -5,23 +5,23 @@ import threading
 import time
 
 dataset = dataset()
-entry = dataEntry(2022, "CS101", 95, "MIT")
-entry2 = dataEntry(2023, "CS102", 90, "Harvard")
-entry3 = dataEntry(2024, "CS103", 85, "Stanford")
-entry4 = dataEntry(2025, "CS104", 80, "Yale")
-entry5 = dataEntry(2026, "CS105", 75, "Princeton")
-entry6 = dataEntry(2027, "CS106", 70, "Columbia")
-entry7 = dataEntry(2028, "CS107", 65, "UCLA")
-entry8 = dataEntry(2029, "CS108", 60, "Berkeley")
-entry9 = dataEntry(2030, "CS109", 55, "Cornell")
-entry10 = dataEntry(2031, "CS110", 50, "NYU")
 
-# Make a for loop that brings the txt files entries into a variable
-# So that it puts entries into the data variables below :)
-# Moaz
+def read_entries_from_file(filename):
+    entries = []
+    with open(filename, 'r') as file:
+        for line in file:
+            if line.strip():  # Skip empty lines
+                parts = line.strip().split(', ')
+                if len(parts) == 4:  # Ensure we have all four fields
+                    year, course, grade, university = parts
+                    entries.append(dataEntry(int(year), course, int(grade), university))
+    return entries
 
-data = [entry, entry2, entry3, entry4, entry5]
-data2 = [entry6, entry7, entry8, entry9, entry10]
+all_entries = read_entries_from_file("coursegrades.txt")
+
+# Split entries into two parts for threading demonstration
+data = all_entries[:len(all_entries)//2]
+data2 = all_entries[len(all_entries)//2:]
 
 def thread_loop():
     for entry in data:
@@ -37,15 +37,21 @@ def thread_loop2():
         time.sleep(1)
     dataset.printStack()
 
-def verify_entries(entries_list):
+def verify_dataset(filename):
+    total_entries = 0
     course_counts = defaultdict(int)
-    for entry in entries_list:
-        course_counts[entry.courseName] += 1
 
-    print("\n=== Dataset Verification ===")
-    print(f"Total entries: {len(entries_list)}")
-    print("Course distribution:")
-    for course, count in course_counts.items():
+    with open(filename, 'r') as file:
+        for line in file:
+            if line.strip():  # Skips empty lines
+                total_entries += 1
+                _, course, _, _ = line.strip().split(', ')
+                course_counts[course] += 1
+
+    print("Dataset Verification")
+    print(f"Total entries: {total_entries}")
+    print("\nCourse distribution:")
+    for course, count in sorted(course_counts.items()):
         print(f"{course}: {count}")
 
 
@@ -57,4 +63,4 @@ thread2.start()
 thread.join()
 thread2.join()
 
-verify_entries(dataset.data_stack)
+verify_dataset("coursegrades.txt")
