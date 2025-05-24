@@ -5,56 +5,87 @@ import threading
 import time
 
 dataset = dataset()
-entry = dataEntry(2022, "CS101", 95, "MIT")
-entry2 = dataEntry(2023, "CS102", 90, "Harvard")
-entry3 = dataEntry(2024, "CS103", 85, "Stanford")
-entry4 = dataEntry(2025, "CS104", 80, "Yale")
-entry5 = dataEntry(2026, "CS105", 75, "Princeton")
-entry6 = dataEntry(2027, "CS106", 70, "Columbia")
-entry7 = dataEntry(2028, "CS107", 65, "UCLA")
-entry8 = dataEntry(2029, "CS108", 60, "Berkeley")
-entry9 = dataEntry(2030, "CS109", 55, "Cornell")
-entry10 = dataEntry(2031, "CS110", 50, "NYU")
 
-# Make a for loop that brings the txt files entries into a variable
-# So that it puts entries into the data variables below :)
-# Moaz
+data1 = [
+    dataEntry(2022, "Data Structures", 96, "Oxford University"),
+    dataEntry(2024, "Machine Learning", 72, "Cambridge University"),
+    dataEntry(2023, "Machine Learning", 81, "Oxford University"),
+    dataEntry(2022, "Artificial Intelligence", 91, "Stanford University"),
+    dataEntry(2024, "Cyber Security", 84, "Stanford University")
+]
 
-data = [entry, entry2, entry3, entry4, entry5]
-data2 = [entry6, entry7, entry8, entry9, entry10]
+data2 = [
+    dataEntry(2024, "Software Engineering", 68, "UC Berkeley"),
+    dataEntry(2023, "Software Engineering", 64, "Stanford University"),
+    dataEntry(2023, "Artificial Intelligence", 97, "Cambridge University"),
+    dataEntry(2022, "Computer Vision", 69, "UC Berkeley"),
+    dataEntry(2022, "Machine Learning", 71, "Cambridge University")
+]
 
-def thread_loop():
-    for entry in data:
+data3 = [
+    dataEntry(2023, "Software Engineering", 77, "UC Berkeley"),
+    dataEntry(2022, "Machine Learning", 96, "Stanford University"),
+    dataEntry(2024, "Machine Learning", 96, "Stanford University"),
+    dataEntry(2024, "Machine Learning", 75, "Cambridge University"),
+    dataEntry(2023, "Cyber Security", 67, "Oxford University")
+]
+
+data4 = [
+    dataEntry(2023, "Computer Vision", 89, "MIT"),
+    dataEntry(2022, "Computer Vision", 82, "Harvard University"),
+    dataEntry(2023, "Cyber Security", 78, "Cambridge University"),
+    dataEntry(2023, "Machine Learning", 75, "Stanford University"),
+    dataEntry(2024, "Data Structures", 80, "Harvard University")
+]
+
+data5 = [
+    dataEntry(2022, "Computer Vision", 76, "MIT"),
+    dataEntry(2023, "Machine Learning", 66, "Harvard University"),
+    dataEntry(2024, "Machine Learning", 66, "MIT"),
+    dataEntry(2022, "Computer Vision", 95, "MIT"),
+    dataEntry(2022, "Artificial Intelligence", 61, "Stanford University")
+]
+
+def thread_loop(entry_list, dataset_obj):
+    for entry in entry_list:
         print(f"Thread {threading.current_thread().name} is processing entry: {entry.courseName}")
-        dataset.addEntry(entry)
-        time.sleep(1)
-    dataset.printStack()
+        dataset_obj.addEntry(entry)
+        #time.sleep(0.5)
 
-def thread_loop2():
-    for entry in data2:
-        print(f"Thread {threading.current_thread().name} is processing entry: {entry.courseName}")
-        dataset.addEntry(entry)
-        time.sleep(1)
-    dataset.printStack()
-
-def verify_entries(entries_list):
+def verify_dataset(filename):
+    total_entries = 0
     course_counts = defaultdict(int)
-    for entry in entries_list:
-        course_counts[entry.courseName] += 1
 
-    print("\n=== Dataset Verification ===")
-    print(f"Total entries: {len(entries_list)}")
-    print("Course distribution:")
-    for course, count in course_counts.items():
+    with open(filename, 'r') as file:
+        for line in file:
+            if line.strip():  # Skips empty lines
+                total_entries += 1
+                _, course, _, _ = line.strip().split(', ')
+                course_counts[course] += 1
+
+    print("Dataset Verification")
+    print(f"Total entries: {total_entries}")
+    print("\nCourse distribution:")
+    for course, count in sorted(course_counts.items()):
         print(f"{course}: {count}")
 
 
-thread = threading.Thread(target=thread_loop, name="LoopThread")
-thread2 = threading.Thread(target=thread_loop2, name="LoopThread2")
-thread.start()
+thread1 = threading.Thread(target=thread_loop, args=(data1, dataset), name="LoopThread(1)")
+thread2 = threading.Thread(target=thread_loop, args=(data2, dataset), name="LoopThread(2)")
+thread3 = threading.Thread(target=thread_loop, args=(data3, dataset), name="LoopThread(3)")
+thread4 = threading.Thread(target=thread_loop, args=(data4, dataset), name="LoopThread(4)")
+thread5 = threading.Thread(target=thread_loop, args=(data5, dataset), name="LoopThread(5)")
+
+thread1.start()
 thread2.start()
+thread3.start()
+thread4.start()
+thread5.start()
 
-thread.join()
+thread1.join()
 thread2.join()
+thread3.join()
+thread4.join()
+thread5.join()
 
-verify_entries(dataset.data_stack)
+verify_dataset("coursegrades.txt")

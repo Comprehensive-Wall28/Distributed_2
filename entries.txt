@@ -1,0 +1,25 @@
+2022 Data Structures 96 Oxford University
+2023 Software Engineering 77 UC Berkeley
+2024 Software Engineering 68 UC Berkeley
+2022 Computer Vision 76 MIT
+2023 Computer Vision 89 MIT
+2024 Machine Learning 72 Cambridge University
+2022 Machine Learning 96 Stanford University
+2022 Computer Vision 82 Harvard University
+2023 Machine Learning 66 Harvard University
+2023 Software Engineering 64 Stanford University
+2023 Machine Learning 81 Oxford University
+2024 Machine Learning 96 Stanford University
+2023 Cyber Security 78 Cambridge University
+2023 Artificial Intelligence 97 Cambridge University
+2024 Machine Learning 66 MIT
+2022 Artificial Intelligence 91 Stanford University
+2024 Machine Learning 75 Cambridge University
+2023 Machine Learning 75 Stanford University
+2022 Computer Vision 69 UC Berkeley
+2022 Computer Vision 95 MIT
+2023 Cyber Security 67 Oxford University
+2022 Machine Learning 71 Cambridge University
+2024 Cyber Security 84 Stanford University
+2022 Artificial Intelligence 61 Stanford University
+2024 Data Structures 80 Harvard University
